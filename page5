@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.belfastmet.ac.uk/" />
+    <title>Graphics</title>
+    <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+		<div id="logo"><img src="images/logo.png">Home</div>
+		<nav>  
+			<ul>
+				<li><a href="index.html">Home</a>
+				<li><a href="grafx.html">Graphics</a>
+				<li><a href="page2.html">Page 2</a>
+				<li><a href="page3.html">Page 3</a>
+				<li><a href="page4.html">Page 4</a>
+				<li><a href="page5.html">Page 5</a>
+			</ul>
+		</nav>
+	</header>
+
+
+
+	<footer>
+		<p>&copy; Belfast Met <a href="https://www.belfastmet.ac.uk/" target="_blank" rel="nofollow">HTML5 Template</a></p>
+		<address>
+			Contact: <a href="mailto:jakemansfield66@gmail.com">Mail me</a>
+		</address>
+	</footer>
+</body>
+
+</html>
