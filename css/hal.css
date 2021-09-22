@@ -16,6 +16,9 @@ input,select{vertical-align:middle}
 
 body {
 	background-image: url('images/Halloween-Grass.png');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+	background-size: cover;
 	color: #c8c3bc;
 }
 header {
