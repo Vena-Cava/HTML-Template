@@ -18,7 +18,7 @@ body {
 	background-image: url('https://github.com/Vena-Cava/HTML-Template/blob/main/images/Halloween-Grass.png');
 	background-repeat: no-repeat;
   	background-attachment: fixed;
-	background-size: cover;
+	background-size: 100% 100%;
 	color: #c8c3bc;
 }
 header {
