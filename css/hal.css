@@ -15,11 +15,11 @@ hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padd
 input,select{vertical-align:middle}
 
 body,html {
-	background-color: #181a1b;
+	background-color: #013800;
 	color: #c8c3bc;
 }
 header {
-    background: #304851;
+    background: #b8812a;
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
@@ -75,7 +75,7 @@ main section {
 	
 }
 footer {
-	background: #304851;
+	background: #b8812a;
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
@@ -89,7 +89,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #304851;
+	background: #b8812a;
 	min-height: 100px;
 }
 #logo {
