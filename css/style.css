@@ -6,8 +6,8 @@ nav ul{list-style:none}
 blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:none}
 a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
-ins{background-color:#ff9;color:#000;text-decoration:none}
-mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+ins{background-color:#181a1b;color:#c8c3bc;text-decoration:none}
+mark{background-color:#181a1b;color:#c8c3bc;font-style:italic;font-weight:bold}
 del{text-decoration:line-through}
 abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
 table{border-collapse:collapse;border-spacing:0}
@@ -15,7 +15,7 @@ hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padd
 input,select{vertical-align:middle}
 
 body,html {
-	background-color: #FFF;
+	background-color: #181a1b;
 }
 header {
     background: #AEC6CF;
@@ -32,7 +32,7 @@ nav ul li a {
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    color: #444;
+    color: #c8c3bc;
     border-radius: 10px;
 }
 nav ul li a:hover {
@@ -108,7 +108,7 @@ body > section {
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
-    color: #333;
+    color: #c8c3bc;
 }
 
 @media screen and (max-width: 1000px) {
