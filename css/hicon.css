@@ -16,7 +16,7 @@ input,select{vertical-align:middle}
 
 body,html {
 	background-color: #FFFF00;
-	color: Black;
+	color: #000;
 }
 header {
     background: #304851;
@@ -89,8 +89,9 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #304851;
+	background: #000;
 	min-height: 100px;
+	color: #FFF;
 }
 #logo {
     display: inline-block;
@@ -109,7 +110,7 @@ body > section {
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
-    color: #c8c3bc;
+    color: #000;
 }
 
 @media screen and (max-width: 1000px) {
