@@ -47,7 +47,7 @@ nav ul {
     list-style: none;
 }
 #pageContent {
-    max-width: 1920px;
+    max-width: 1440px;
     margin: auto;
     border: none;
 }
@@ -76,7 +76,7 @@ main section {
 }
 footer {
 	background: #304851;
-	max-width: 1920px;
+	max-width: 1440px;
 	margin: auto;
 	clear: both;
 	text-align: right;
@@ -105,7 +105,7 @@ aside > div {
     margin-right: 10px;
 }
 body > section {
-    max-width: 1920px;
+    max-width: 1440px;
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
