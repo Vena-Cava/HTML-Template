@@ -27,6 +27,8 @@ header {
 table, th, td {
   border: 2px solid white;
   text-align: center;
+}
+table {
   width: 120%;
 }
 nav {
