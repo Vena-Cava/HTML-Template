@@ -109,7 +109,7 @@ footer {
 	margin: auto;
 	clear: both;
 	text-align: right;
-	position: absolute;
+	position: 100vh;
 	bottom: 0;
 }
 footer p {
