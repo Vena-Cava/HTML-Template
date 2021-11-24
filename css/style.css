@@ -24,7 +24,8 @@ header {
     max-width: 1920px;
     margin: auto;
 }
-td {
+table, th, td {
+  border: 2px solid white;
   text-align: center;
   width: 120%;
 }
