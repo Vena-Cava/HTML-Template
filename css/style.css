@@ -33,7 +33,7 @@ table {
   width: 150%;
 }
 a:link {
-  color: #27cfcc;
+  color: white;
   text-decoration: none;
 }
 a:visited {
@@ -57,7 +57,7 @@ nav ul li a {
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    color: #c8c3bc;
+    color: white;
     border-radius: 10px;
 }
 nav ul li a:hover {
