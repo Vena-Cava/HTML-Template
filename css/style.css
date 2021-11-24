@@ -103,13 +103,29 @@ page-container {
   position: relative;
   min-height: 100vh;
 }
+#wrapper {
+  background-color: #e3f2fd;
+  min-height: 100%;
+  height: auto !important;
+  margin-bottom: -50px; /* the bottom margin is the negative value of the footer's total height */
+}
+
+#wrapper:after {
+  content: "";
+  display: block;
+  height: 50px; /* the footer's total height */
+}
+
+#content {
+  height: 100%;
+}
 footer {
 	background: #004272;
 	width: 100%;
 	margin: auto;
 	clear: both;
 	text-align: right;
-	position: 100vh;
+	position: absolute;
 	bottom: 0;
 }
 footer p {
