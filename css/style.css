@@ -19,7 +19,7 @@ body,html {
 	color: #c8c3bc;
 }
 header {
-    background: #304851;
+    background: #004272;
     padding: 20px 30px;
     max-width: 1920px;
     margin: auto;
@@ -103,7 +103,7 @@ main section {
 	
 }
 footer {
-	background: #304851;
+	background: #004272;
 	max-width: 1920px;
 	margin: auto;
 	clear: both;
@@ -117,7 +117,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #304851;
+	background: #004272;
 	min-height: 100px;
 }
 #logo {
