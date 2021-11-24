@@ -32,6 +32,26 @@ table, th, td {
 table {
   width: 150%;
 }
+a:link {
+  color: #27cfcc;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #599c9b;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #00a8e6;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #9c9c9c;
+  background-color: transparent;
+  text-decoration: underline;
+}
 nav {
     display: inline-block;
 }
@@ -118,26 +138,6 @@ body > section {
     padding: 30px 0px;
     border-bottom: 1px solid #999;
     color: #c8c3bc;
-}
-a:link {
-  color: #27cfcc;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: #599c9b;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: #00a8e6;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: #9c9c9c;
-  background-color: transparent;
-  text-decoration: underline;
 }
 
 @media screen and (max-width: 1000px) {
