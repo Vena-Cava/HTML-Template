@@ -119,6 +119,26 @@ body > section {
     border-bottom: 1px solid #999;
     color: #c8c3bc;
 }
+a:link {
+  color: #27cfcc;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #b8b8b8;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #00a8e6;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #9c9c9c;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 @media screen and (max-width: 1000px) {
 	body > section {
