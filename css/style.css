@@ -25,11 +25,11 @@ header {
     margin: auto;
 }
 table, th, td {
-  border: 2px solid white;
+  border: 2px solid #c8c3bc;
   text-align: center;
 }
 table {
-  width: 120%;
+  width: 150%;
 }
 nav {
     display: inline-block;
