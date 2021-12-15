@@ -116,17 +116,13 @@ page-container {
   height: 50px; /* the footer's total height */
 }
 
-#content {
-  height: 100%;
-}
+
 footer {
 	background: #004272;
 	width: 100%;
 	margin: auto;
 	clear: both;
 	text-align: right;
-	position: absolute;
-	bottom: 0;
 }
 footer p {
 	padding: 20px;
